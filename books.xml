@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books author="helmi_agustiawan">
+     <book>
+         <idBook>1</idBook>
+         <isbn>139890842320</isbn>
+         <judul>Belajar Express js</judul>
+         <sinopsi>membangun aplikasi dengan express js</sinopsi>
+         <penulis>Helmi Agustiawan</penulis>
+         <genre>Pendidikan, Programming</genre>
+     </book>
+     <book>
+         <idBook>2</idBook>
+         <isbn>1398904342320</isbn>
+         <judul>Belajar Node JS</judul>
+         <sinopsi>membangun aplikasi dengan node js</sinopsi>
+         <penulis>Helmi Agustiawan</penulis>
+         <genre>Pendidikan, Programming</genre>
+     </book>
+</Books>
